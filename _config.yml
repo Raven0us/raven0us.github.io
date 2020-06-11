@@ -1,0 +1,19 @@
+title: George Bidilica | Full Stack Developer
+email: george.bidilica+dev@outlook.com
+baseurl: "/"
+url: "https://bidi.dev"
+github_username:  raven0us
+
+markdown: kramdown
+theme: null
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - feed.xml
+  - assets-src
+  - node_modules
+  - CNAME
