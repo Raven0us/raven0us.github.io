@@ -16,6 +16,9 @@ title: Whatever
 </section>
 
 <section class="container">
+    <p style="font-size: 1.5rem; font-weight: 700;">For b2b collaborations, check out <a href="https://oxentree.com">https://oxentree.com</a></p>
+</section>
+<section class="container">
     <h3>Personal statement</h3>
     <i>aka how I see myself, professional flavour</i>
     <p>I'm a product of StackOverflow & GitHub. I'm proficient in both, backend and frontend.
