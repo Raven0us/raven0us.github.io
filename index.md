@@ -108,7 +108,7 @@ title: Whatever
             <a href="https://github.com/Raven0us" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
             <a href="https://codepen.io/Raven0us/pens/public" target="_blank" title="CodePen"><i
                     class="fab fa-codepen"></i></a>
-            <a href="https://jsfiddle.net/user/fiddles/all/" target="_blank" title="jsfiddle"><i
+            <a href="https://jsfiddle.net/user/raven0us/fiddles/" target="_blank" title="jsfiddle"><i
                     class="fab fa-jsfiddle"></i></a>
         </div>
 
