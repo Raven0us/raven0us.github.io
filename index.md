@@ -38,7 +38,7 @@ title: Whatever
         </div>
         
         <div class="external-links-ctn">
-            <a href="mailto:george+cv@slickstride.com" title="Email"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:george+cv@oxentree.com" title="Email"><i class="fas fa-envelope"></i></a>
             <a href="https://www.linkedin.com/in/raven0us/" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="https://stackoverflow.com/users/6826288/ravenous" target="_blank" title="StackOverflow"><i
                     class="fab fa-stack-overflow"></i></a>
